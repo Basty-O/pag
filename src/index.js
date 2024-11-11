@@ -1,7 +1,7 @@
 import React from 'react';
 import { Routes, Route } from 'react-router-dom';  // Importa Routes y Route
 import CoursesPage from '../pages/CoursesPage';  // Asegúrate de que la ruta sea correcta
-import HomePage from '../pages/HomePage';        // Si tienes una página principal
+import HomePage from '../pages/courses_page';        // Si tienes una página principal
 // Importa otros componentes que quieras mostrar en las rutas
 
 const Layout = () => {
