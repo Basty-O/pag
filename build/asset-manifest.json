@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/DIU_pag/build/static/css/main.1e3a0ee3.css",
+    "main.js": "/DIU_pag/build/static/js/main.d1c0f64c.js",
+    "index.html": "/DIU_pag/build/index.html",
+    "main.1e3a0ee3.css.map": "/DIU_pag/build/static/css/main.1e3a0ee3.css.map",
+    "main.d1c0f64c.js.map": "/DIU_pag/build/static/js/main.d1c0f64c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e3a0ee3.css",
+    "static/js/main.d1c0f64c.js"
+  ]
+}
